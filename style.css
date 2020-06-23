@@ -19,13 +19,12 @@ p{
   width:4em;
 }
 .Title{
-  background-color: #333333;
-  color: #c9c8c5;
-  
+  background-color: #FFFFFF;
+  color: #000000;
 }
 
 .text-yellow{
-  color:#f5d800;
+  color:#000000;
 }
 
 
@@ -46,7 +45,7 @@ img {
 	height: 100%;
 }
 .text-yellowish{
-  color:#fff18c;
+  color:#00000;
 }
 
 .bounce {
